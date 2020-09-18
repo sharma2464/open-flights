@@ -1,0 +1,104 @@
+GET http://localhost:3000/api/v1/airlines/united-airlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032933.200.json
+
+###
+
+GET http://localhost:3000/api/v1/airlines/united-airlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032908.200.json
+
+###
+
+GET http://localhost:3000/api/v1/airlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032813.200.json
+
+###
+
+GET http://localhost:3000/api/v1/airlines/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032807.200.json
+
+###
+
+GET http://localhost:3000/api/v1/airlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032801.200.json
+
+###
+
+GET http://localhost:3000/api/v1/review
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032755.404.html
+
+###
+
+GET http://localhost:3000/api/v1/reviews
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032750.404.html
+
+###
+
+GET http://localhost:3000/api/v1/airlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032731.200.json
+
+###
+
+GET http://localhost:3000/api/v1/aiirlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032659.404.html
+
+###
+
+GET http://localhost:3000/api/v1/aiirlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032646.404.html
+
+###
+
+GET http://localhost:3000/api/v1/aiirlines.json
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032642.404.html
+
+###
+
+GET http://localhost:3000/aiirlines.json
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032618.404.html
+
+###
+
+GET http://localhost:3000/aiirlines
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-19T032606.500.html
+
+###
+
